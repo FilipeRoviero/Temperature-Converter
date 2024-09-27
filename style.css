@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caixa-mae {
+    border: 1px solid;
+    margin-top: 40vh;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.caixa-mae h1{
+    margin-bottom: 50px;
+}
+
+.celc{
+    margin-right: 56px;
+    margin-bottom: 20px;
+}
+
+.kel {
+    margin-right: 62px;
+    margin-bottom: 20px;
+}
+
+.fh{
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+input {
+    border-radius: 5px;
+}
